@@ -6,7 +6,6 @@ from kivymd.uix.button import MDRectangleFlatButton, MDFlatButton
 from kivymd.uix.dialog import MDDialog
 from kivy.lang import Builder
 from helpers import num_helper, sms_helper
-from call_location import call_location
 
 import socket
 HEADER = 1024
